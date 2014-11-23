@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 100%;  /*this sets the base font size for everything. */
+}
+
+nav {
+	float: left;
+	background: darkgray;
+}
+
+main {
+	background: lightgray;
+}
+
+footer {
+	background: gray;
+	clear: both; /* or we can just use 'clear: left' in this case */
+}
+
+h1 {
+	font-family: 'Denk One',sans-serif;
+	font-size: xx-large; /* sets it relative to the base font size */
+	color: maroon;
+	text-align: center;
+}
+
+/*
+body {
+	background: lightcyan;
+	width: 800px;
+	margin: auto;
+}
+
+
+
+p {
+	color: gray;
+	border: 1px solid gray;
+	padding: 10px;
+}
+*/
+
+
+
